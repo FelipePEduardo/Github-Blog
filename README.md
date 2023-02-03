@@ -8,7 +8,7 @@ Nesse desafio desenvolvemos uma aplicação que utilizará da API do GitHub para
 
 ## Demonstração
 
-Imagem
+https://user-images.githubusercontent.com/103855358/216625003-88454bd7-0105-4ba4-86d7-0a0cadd2a37d.mp4
 
 ## Stack utilizada
 
